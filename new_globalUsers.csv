@@ -1,0 +1,327 @@
+Country,Region,Year,Cellular_Subs,Users,Broadband_Subs
+Argentina,South America,2010,139.58,18495056,9.85
+Argentina,South America,2011,146.96,21175575,11.06
+Argentina,South America,2012,154.06,23409419,12.33
+Argentina,South America,2013,159.64,25390573,14.81
+Argentina,South America,2014,143.62,27707168,15.29
+Argentina,South America,2015,143.57,29433430,15.92
+Argentina,South America,2016,146.45,30990901,16.67
+Argentina,South America,2017,140.88,32730336,17.85
+Argentina,South America,2018,132.09,34509360,19.1
+Argentina,South America,2019,125.84,35751668,19.64
+Argentina,South America,2020,121.17,38505807,21.18
+Australia,Oceania,2010,101.56,16734566,24.87
+Australia,Oceania,2011,105.55,17771091,24.63
+Australia,Oceania,2012,106.26,17956125,25.04
+Australia,Oceania,2013,107.25,19287596,25.72
+Australia,Oceania,2014,106.2,19714446,27.7
+Australia,Oceania,2015,107.68,20142518,28.53
+Australia,Oceania,2016,109.43,20938964,30.39
+Australia,Oceania,2017,108.44,21281719,32.22
+Australia,Oceania,2018,111.01,21881803,33.85
+Australia,Oceania,2019,109.25,22466450,34.93
+Australia,Oceania,2020,107.66,23000366,35.68
+Bangladesh,Asia,2010,46.03,5490472,0.28
+Bangladesh,Asia,2011,56.52,6759495,0.31
+Bangladesh,Asia,2012,64.36,7604533,0.4
+Bangladesh,Asia,2013,76.3,10212199,1.0
+Bangladesh,Asia,2014,82.1,18559396,2.0
+Bangladesh,Asia,2015,84.08,20360069,3.13
+Bangladesh,Asia,2016,86.08,28921009,4.17
+Bangladesh,Asia,2017,94.53,32035204,4.57
+Bangladesh,Asia,2018,100.24,35683100,4.99
+Bangladesh,Asia,2019,101.55,39392860,4.96
+Bangladesh,Asia,2020,107.04,41520393,6.1
+Brazil,South America,2010,100.62,79817702,7.2
+Brazil,South America,2011,118.65,90550859,9.03
+Brazil,South America,2012,124.61,97109180,9.59
+Brazil,South America,2013,134.85,102958796,10.63
+Brazil,South America,2014,138.45,110989278,11.82
+Brazil,South America,2015,126.09,119682082,12.46
+Brazil,South America,2016,118.39,125920682,13.03
+Brazil,South America,2017,106.46,140680972,13.91
+Brazil,South America,2018,99.97,148029327,14.91
+Brazil,South America,2019,95.72,156533889,15.59
+Brazil,South America,2020,96.84,173419624,17.1
+Canada,North America,2010,75.63,27272624,31.68
+Canada,North America,2011,77.71,28488535,32.67
+Canada,North America,2012,79.38,28794257,33.47
+Canada,North America,2013,80.35,30084652,34.27
+Canada,North America,2014,80.72,30844502,35.24
+Canada,North America,2015,82.62,32158908,36.4
+Canada,North America,2016,84.52,32921097,36.79
+Canada,North America,2017,86.28,33886378,37.91
+Canada,North America,2018,89.58,35050170,38.96
+Canada,North America,2019,91.86,36209294,40.48
+Canada,North America,2020,85.74,36740677,41.93
+China,Asia,2010,62.76,462429626,9.23
+China,Asia,2011,71.65,519767537,11.37
+China,Asia,2012,80.35,578056810,12.66
+China,Asia,2013,88.31,630253951,13.57
+China,Asia,2014,91.9,663505855,14.33
+China,Asia,2015,91.84,701038864,19.69
+China,Asia,2016,96.53,745805312,22.81
+China,Asia,2017,103.44,765779840,27.74
+China,Asia,2018,115.53,838905119,28.54
+China,Asia,2019,121.79,911554782,31.34
+China,Asia,2020,119.39,1003218650,33.6
+Colombia,South America,2010,98.35,16357878,5.84
+Colombia,South America,2011,101.18,18282554,7.33
+Colombia,South America,2012,106.49,22424229,8.55
+Colombia,South America,2013,108.17,23905009,9.76
+Colombia,South America,2014,117.8,24538595,10.71
+Colombia,South America,2015,120.64,26342271,11.63
+Colombia,South America,2016,121.82,27688063,12.27
+Colombia,South America,2017,127.21,30103691,12.94
+Colombia,South America,2018,129.91,31599532,13.45
+Colombia,South America,2019,131.67,32625274,13.81
+Colombia,South America,2020,133.0,35544505,15.26
+Dominican Republic,North America,2010,91.72,3069587,4.03
+Dominican Republic,North America,2011,89.38,3763422,4.32
+Dominican Republic,North America,2012,89.96,4245071,4.87
+Dominican Republic,North America,2013,91.56,4662088,5.24
+Dominican Republic,North America,2014,81.69,5097873,5.9
+Dominican Republic,North America,2015,85.56,5641602,6.67
+Dominican Republic,North America,2016,83.75,6724062,7.32
+Dominican Republic,North America,2017,83.41,7194477,7.81
+Dominican Republic,North America,2018,84.1,8054992,8.1
+Dominican Republic,North America,2019,83.32,8248470,8.66
+Dominican Republic,North America,2020,82.87,8458745,9.51
+Egypt,Africa,2010,85.38,18846522,1.75
+Egypt,Africa,2011,98.69,22835215,2.18
+Egypt,Africa,2012,112.01,24087461,2.65
+Egypt,Africa,2013,112.78,27453101,3.03
+Egypt,Africa,2014,105.41,32400641,3.39
+Egypt,Africa,2015,101.7,36958534,4.14
+Egypt,Africa,2016,103.54,41158983,4.73
+Egypt,Africa,2017,106.76,45754535,5.43
+Egypt,Africa,2018,95.29,48679666,6.73
+Egypt,Africa,2019,94.97,60501404,7.57
+Egypt,Africa,2020,93.18,77282687,9.14
+Ethiopia,Africa,2010,7.82,669284,0.41611111111111115
+Ethiopia,Africa,2011,15.67,1009997,0.01
+Ethiopia,Africa,2012,22.13,2739087,0.01
+Ethiopia,Africa,2013,26.89,4465881,0.25
+Ethiopia,Africa,2014,31.08,7680501,0.48
+Ethiopia,Africa,2015,41.96,14197662,0.47
+Ethiopia,Africa,2016,49.44,16180331,0.54
+Ethiopia,Africa,2017,37.22,20144349,0.06
+Ethiopia,Africa,2019,37.4,25106530,0.14
+Ethiopia,Africa,2020,38.71,28125821,0.18
+Fiji,Oceania,2010,81.17,181035,2.7
+Fiji,Oceania,2011,84.2,254341,2.69
+Fiji,Oceania,2012,99.28,307415,1.56
+Fiji,Oceania,2013,107.49,321540,1.26
+Fiji,Oceania,2014,101.12,342425,1.43
+Fiji,Oceania,2015,111.2,389814,1.47
+Fiji,Oceania,2016,119.75,453859,1.41
+Fiji,Oceania,2017,117.83,604533,1.38
+Fiji,Oceania,2018,114.89,633192,2.16
+Fiji,Oceania,2019,115.74,678252,2.41
+Fiji,Oceania,2020,110.6,678252,2.57
+France,Europe,2010,91.9,48257161,33.93
+France,Europe,2011,94.61,48851716,35.98
+France,Europe,2012,97.95,51365359,37.73
+France,Europe,2013,99.11,51884053,39.03
+France,Europe,2014,101.92,53255365,40.45
+France,Europe,2015,103.46,49775470,41.68
+France,Europe,2016,104.49,50724215,42.8
+France,Europe,2017,106.44,51637570,43.92
+France,Europe,2018,108.36,52735567,44.78
+France,Europe,2019,110.61,53670595,45.69
+France,Europe,2020,111.46,54679086,46.92
+Germany,Europe,2010,109.37,66686572,32.37
+Germany,Europe,2011,112.42,66172781,33.71
+Germany,Europe,2012,114.11,67152774,34.53
+Germany,Europe,2013,123.23,68750553,35.28
+Germany,Europe,2014,122.2,70554122,36.31
+Germany,Europe,2015,117.82,71887778,37.55
+Germany,Europe,2016,125.89,69294420,38.76
+Germany,Europe,2017,132.71,69730139,40.2
+Germany,Europe,2018,129.32,72150888,41.09
+Germany,Europe,2019,128.36,73282212,42.14
+Germany,Europe,2020,128.19,74840220,43.22
+Guatemala,North America,2010,123.5,1527028,1.77
+Guatemala,North America,2011,130.31,1824515,4.736666666666666
+Guatemala,North America,2012,136.12,2420529,1.84
+Guatemala,North America,2013,139.24,3038265,2.26
+Guatemala,North America,2014,106.21,3677016,2.72
+Guatemala,North America,2015,111.5,4609269,2.83
+Guatemala,North America,2016,110.14,5621916,3.05
+Guatemala,North America,2017,118.16,6283334,3.14
+Guatemala,North America,2018,118.67,6992823,4.736666666666666
+Guatemala,North America,2019,118.73,7595394,3.33
+Guatemala,North America,2020,113.82,8676149,3.42
+India,Asia,2010,60.94,93046022,0.89
+India,Asia,2011,71.49,126642456,1.07
+India,Asia,2012,68.32,141468081,1.18
+India,Asia,2013,69.2,158809242,1.17
+India,Asia,2014,72.86,176478273,1.22
+India,Asia,2015,76.41,197107112,1.29
+India,Asia,2016,85.15,220874988,1.41
+India,Asia,2017,87.32,246463630,1.33
+India,Asia,2018,86.94,274913663,1.34
+India,Asia,2019,84.27,406634942,1.4
+India,Asia,2020,83.6,600446441,1.66
+Indonesia,Asia,2010,87.37,26646567,0.94
+Indonesia,Asia,2011,101.91,30343842,1.12
+Indonesia,Asia,2012,113.49,36332335,1.2
+Indonesia,Asia,2013,124.39,37839421,1.29
+Indonesia,Asia,2014,127.62,43917779,1.33
+Indonesia,Asia,2015,131.18,57162793,1.54
+Indonesia,Asia,2016,147.42,66633940,2.0
+Indonesia,Asia,2017,164.44,85527839,2.35
+Indonesia,Asia,2018,119.34,106572065,3.32
+Indonesia,Asia,2019,126.11,128565820,3.8
+Indonesia,Asia,2020,130.01,146059763,4.29
+Mexico,North America,2010,80.1,34941309,9.28
+Mexico,North America,2011,81.75,42436921,10.0
+Mexico,North America,2012,85.89,46012975,11.15
+Mexico,North America,2013,89.83,50974528,10.73
+Mexico,North America,2014,87.2,52715738,10.83
+Mexico,North America,2015,88.37,69003337,12.11
+Mexico,North America,2016,90.59,72353089,12.91
+Mexico,North America,2017,91.63,78435628,13.62
+Mexico,North America,2018,95.23,81567188,14.55
+Mexico,North America,2019,95.66,87647163,15.17
+Mexico,North America,2020,95.32,90678697,17.01
+New Caledonia,Oceania,2010,87.1,109803,15.07
+New Caledonia,Oceania,2011,88.43,133156,16.64
+New Caledonia,Oceania,2012,88.62,157363,18.38
+New Caledonia,Oceania,2013,91.02,182427,20.28
+New Caledonia,Oceania,2014,90.8,196564,21.77
+New Caledonia,Oceania,2015,96.02,209455,20.43
+New Caledonia,Oceania,2019,91.95,288391,19.45
+New Caledonia,Oceania,2020,91.07,288391,19.26
+New Zealand,Oceania,2010,107.78,3497069,24.99
+New Zealand,Oceania,2011,109.08,3558909,26.66
+New Zealand,Oceania,2012,110.15,3600754,28.47
+New Zealand,Oceania,2013,105.48,3684241,29.12
+New Zealand,Oceania,2014,111.66,3791926,30.87
+New Zealand,Oceania,2015,121.36,3911183,31.44
+New Zealand,Oceania,2016,130.92,4037896,32.85
+New Zealand,Oceania,2017,136.11,4162464,33.67
+New Zealand,Oceania,2018,133.22,4306290,34.74
+New Zealand,Oceania,2019,124.0,4473048,35.49
+New Zealand,Oceania,2020,127.49,4630934,36.6
+Nigeria,Africa,2010,55.08,18509579,0.06
+Nigeria,Africa,2011,58.45,22833997,0.05774999999999999
+Nigeria,Africa,2012,67.44,27382226,0.01
+Nigeria,Africa,2013,74.08,33372691,0.01
+Nigeria,Africa,2014,78.77,37669595,0.01
+Nigeria,Africa,2015,83.27,45078965,0.01
+Nigeria,Africa,2016,83.0,48430801,0.06
+Nigeria,Africa,2017,75.92,54178853,0.06
+Nigeria,Africa,2018,88.18,63285649,0.04
+Nigeria,Africa,2019,91.85,68310308,0.04
+Nigeria,Africa,2020,99.07,73956230,0.03
+Pakistan,Asia,2010,55.28,15556360,0.44
+Pakistan,Asia,2011,59.39,15888219,0.64
+Pakistan,Asia,2012,64.16,16378675,0.81
+Pakistan,Asia,2013,66.79,18480380,0.85
+Pakistan,Asia,2014,69.51,20825163,1.03
+Pakistan,Asia,2015,63.13,23206623,0.9
+Pakistan,Asia,2016,67.03,26446006,1.22
+Pakistan,Asia,2017,69.51,29817115,1.11
+Pakistan,Asia,2018,72.56,33706811,0.99
+Pakistan,Asia,2019,76.38,38118177,0.94
+Pakistan,Asia,2020,79.51,56799184,1.14
+Papua New Guinea,Oceania,2010,26.11,97066,0.08
+Papua New Guinea,Oceania,2011,32.12,156133,0.1
+Papua New Guinea,Oceania,2012,35.5,280929,0.12
+Papua New Guinea,Oceania,2013,38.52,420527,0.15
+Papua New Guinea,Oceania,2014,42.27,550170,0.17
+Papua New Guinea,Oceania,2015,43.91,685892,0.19
+Papua New Guinea,Oceania,2016,45.72,854458,0.21
+Papua New Guinea,Oceania,2017,47.62,1021696,0.21
+Papua New Guinea,Oceania,2018,49.96,889628,0.29574999999999996
+Papua New Guinea,Oceania,2019,51.67,889628,0.23
+Papua New Guinea,Oceania,2020,53.85,889628,0.23
+Peru,South America,2010,100.3,10163124,3.21
+Peru,South America,2011,110.92,10614927,4.14
+Peru,South America,2012,99.6,11364344,4.89
+Peru,South America,2013,100.06,11775214,5.42
+Peru,South America,2014,105.95,12202291,5.87
+Peru,South America,2015,112.36,12546595,6.56
+Peru,South America,2016,119.42,14153502,6.86
+Peru,South America,2017,123.76,15945099,7.35
+Peru,South America,2018,131.78,17729668,7.93
+Peru,South America,2019,122.56,19678670,8.56
+Peru,South America,2020,133.45,21731361,9.23
+Russia,Europe,2010,165.66,70188870,10.94
+Russia,Europe,2011,141.79,83151436,12.27
+Russia,Europe,2012,144.5,94795378,14.53
+Russia,Europe,2013,151.26,97847482,16.45
+Russia,Europe,2014,152.79,101749828,17.25
+Russia,Europe,2015,156.77,101411442,18.54
+Russia,Europe,2016,157.72,106062366,18.95
+Russia,Europe,2017,156.19,110555774,21.37
+Russia,Europe,2018,157.43,117781320,22.0
+Russia,Europe,2019,164.39,120444573,22.52
+Russia,Europe,2020,163.59,123766963,23.23
+South Africa,Africa,2010,98.35,12428383,1.45
+South Africa,Africa,2011,123.07,17814996,1.74
+South Africa,Africa,2012,129.45,21789465,2.1
+South Africa,Africa,2013,143.17,25051228,3.01
+South Africa,Africa,2014,145.35,26817482,3.13
+South Africa,Africa,2015,158.88,29010587,2.54
+South Africa,Africa,2016,146.62,30468027,2.05
+South Africa,Africa,2017,155.23,31813890,1.97
+South Africa,Africa,2018,159.93,35779931,1.92
+South Africa,Africa,2019,165.6,39615373,2.14
+South Africa,Africa,2020,161.8,41161350,2.2
+Tanzania,Africa,2010,47.32,1308205,0.02
+Tanzania,Africa,2011,56.2,1485313,0.06
+Tanzania,Africa,2012,57.85,1887552,0.09
+Tanzania,Africa,2013,56.6,2167161,0.12
+Tanzania,Africa,2014,63.78,3557019,0.17
+Tanzania,Africa,2015,77.05,5254282,0.21
+Tanzania,Africa,2016,75.48,7346546,0.6
+Tanzania,Africa,2017,73.09,9002726,1.4
+Tanzania,Africa,2018,77.24,11037184,1.53
+Tanzania,Africa,2019,82.21,11974517,1.79
+Tanzania,Africa,2020,85.75,13574994,1.9
+Turkey,Europe,2010,85.4,29146389,9.81
+Turkey,Europe,2011,88.94,31943499,10.34
+Turkey,Europe,2012,90.66,33972709,10.54
+Turkey,Europe,2013,91.75,35416456,11.71
+Turkey,Europe,2014,93.08,39868398,11.48
+Turkey,Europe,2015,93.77,42805821,12.1
+Turkey,Europe,2016,94.03,47272983,13.15
+Turkey,Europe,2017,95.91,53099488,14.7
+Turkey,Europe,2018,97.3,58830017,16.28
+Turkey,Europe,2019,96.84,61756998,17.06
+Turkey,Europe,2020,97.38,65347988,19.84
+United Kingdom,Europe,2010,120.91,53346041,30.18
+United Kingdom,Europe,2011,120.52,54033892,32.16
+United Kingdom,Europe,2012,121.39,55819873,33.61
+United Kingdom,Europe,2013,121.07,57771820,35.45
+United Kingdom,Europe,2014,119.93,59339007,36.27
+United Kingdom,Europe,2015,120.33,60006613,37.45
+United Kingdom,Europe,2016,119.06,62225247,38.42
+United Kingdom,Europe,2017,118.54,59738807,39.03
+United Kingdom,Europe,2018,117.5,60249419,39.6
+United Kingdom,Europe,2019,118.23,61781367,39.79
+United Kingdom,Europe,2020,116.38,63584584,40.26
+United States,North America,2010,92.27,223086991,27.35
+United States,North America,2011,95.45,218864469,28.34
+United States,North America,2012,97.07,236538532,29.46
+United States,North America,2013,98.2,228033875,30.35
+United States,North America,2014,111.56,235084785,30.69
+United States,North America,2015,119.14,242008728,31.85
+United States,North America,2016,122.59,279910069,32.73
+United States,North America,2017,123.04,287824925,33.28
+United States,North America,2018,106.46,293940279,33.86
+United States,North America,2019,108.09,298983035,34.73
+United States,North America,2020,106.19,305371298,36.61
+Venezuela,South America,2010,98.03,10730805,5.88
+Venezuela,South America,2011,99.63,11702475,6.29
+Venezuela,South America,2012,104.12,14455269,6.94
+Venezuela,South America,2013,103.74,16381075,7.5
+Venezuela,South America,2014,101.61,17210158,7.99
+Venezuela,South America,2015,96.71,17707239,8.61
+Venezuela,South America,2016,92.46,18444878,8.76
+Venezuela,South America,2017,83.3,18827072,8.87
+Venezuela,South America,2018,71.77,27444150,9.02
+Venezuela,South America,2019,64.79,27444150,8.98
+Venezuela,South America,2020,58.18,27444150,9.01
